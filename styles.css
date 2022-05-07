@@ -1,0 +1,22 @@
+/* Basic Syntax: Selector {property : value; } 
+Div is an empty container*/
+
+div.bold-text {
+    font-weight: 700;
+}
+
+/* Universal Selector * means all element will have color purple applied to it*/
+
+*{
+    color: purple;
+}
+
+/* Basic Syntax: Selector {property : value; } 
+Div is an empty container*/
+div {
+    color:red;
+}
+
+#title {
+    background-color: red;
+}
